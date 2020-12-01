@@ -1,2 +1,3 @@
 # hello-world
-Memory my first code
+Hi guys!
+I am following the instuctions now.
